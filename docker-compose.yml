@@ -58,7 +58,7 @@ services:
     build: ./data/htdocs
     environment:
       TZ: "Asia/Tokyo"
-      PRJ: "tmp"
+      PRJ: "app"
     volumes:
       - "./data/htdocs:/root"
     ports:

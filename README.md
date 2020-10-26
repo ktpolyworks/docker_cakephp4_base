@@ -4,7 +4,6 @@ docker / cakephp4 / php7.4 / mysql5.7
 docker baseをclone
 ```
 git clone https://github.com/ktpolyworks/docker_cakephp4_base.git
-
 clone後フォルダ名を変更 testblog等
 ```
 
